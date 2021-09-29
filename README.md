@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Slddev</h1>
 <h3 align="center">A PHP and HTML5 developer.</h3>
 
-- 🔭 I’m currently working on **Nothing. (school)**
+- 🔭 I’m currently working on **Random Things**
 
 - 🌱 I’m currently learning **PHP**
 
