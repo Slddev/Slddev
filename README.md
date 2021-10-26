@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 👯 I’m looking to collaborate on [Boxbilling](https://github.com/boxbilling/boxbilling)
+- 👯 I’m looking to collaborate on [MultiMC5-Cracked](https://github.com/AfoninZ/MultiMC5-Cracked)
 
 - 📫 How to reach me **sappy@sapinc.ga**
 
