@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Slddev</h1>
 <h3 align="center">A PHP and HTML5 developer.</h3>
 
-- 🔭 I’m currently working on **Random Things**
+- 🔭 I’m currently working on **Iconic Client's Launcher**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on [MultiMC5-Cracked](https://github.com/AfoninZ/MultiMC5-Cracked)
+- 👯 I’m looking to collaborate on nothing...
 
 - 📫 How to reach me **admin@sappy.gq**
 
