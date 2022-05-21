@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [MultiMC5-Cracked](https://github.com/AfoninZ/MultiMC5-Cracked)
 
-- 📫 How to reach me **sappy@sapinc.ga**
+- 📫 How to reach me **admin@sappy.gq**
 
 
 <h3 align="left">Languages and Tools:</h3>
