@@ -1,5 +1,5 @@
 # 💫 About Me:
-A 16-year-old full-stack developer from the Philippines. <br>Mostly working on web-based projects using Next.js and Typescript.
+A 17-year-old full-stack developer from the Philippines. <br>Mostly working on web-based projects using Next.js and Typescript.
 
 
 ## 🌐 Socials:
